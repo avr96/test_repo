@@ -1,0 +1,2 @@
+file2 merge=ours
+file3 file2.txt merge=ours
